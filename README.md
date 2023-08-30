@@ -15,6 +15,7 @@ This project solve the [HelloExtended ReactJS challenge](https://github.com/hell
 
 ## Set up
 
+https://dog-breeds-challenge.vercel.app/
 
 1 - Install all project dependencies with `npm install` or `yarn install` command.
 
